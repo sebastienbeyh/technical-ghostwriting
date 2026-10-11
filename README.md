@@ -308,7 +308,7 @@ My published technical books demonstrate experience developing complex subjects 
 
 Technical examination of AI-enabled radio access networks and the evolution of telecommunications infrastructure toward increasingly intelligent architectures.
 
-[View the technical repository](https://github.com/sebastienbeyhand/ai-ran-engineering)
+[View the technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
 
 [View on Amazon](https://www.amazon.com/dp/B0GX2SLJ85)
 
@@ -320,7 +320,7 @@ Technical examination of AI-enabled radio access networks and the evolution of t
 
 A systems-oriented treatment of cyber resilience spanning identity, infrastructure, AI security and emerging quantum-era considerations.
 
-[View the technical repository](https://github.com/sebastienbeyhand/engineering-cyber-resilience)
+[View the technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
 [View on Amazon](https://www.amazon.com/dp/B0HKFHBZGL)
 
@@ -330,11 +330,11 @@ A systems-oriented treatment of cyber resilience spanning identity, infrastructu
 
 ### Technical Writing Portfolio
 
-[View the central technical writing portfolio](https://github.com/sebastienbeyhand/technical-writing-portfolio)
+[View the central technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio)
 
 ### Engineering Writing Samples
 
-[View selected engineering writing samples](https://github.com/sebastienbeyhand/engineering-writing-samples)
+[View selected engineering writing samples](https://github.com/sebastienbeyh/engineering-writing-samples)
 
 ### Technical White Papers
 
@@ -346,7 +346,7 @@ A systems-oriented treatment of cyber resilience spanning identity, infrastructu
 
 ### Engineering Cyber Resilience
 
-[Explore the cyber resilience technical portfolio](https://github.com/sebastienbeyhand/engineering-cyber-resilience)
+[Explore the cyber resilience technical portfolio](https://github.com/sebastienbeyh/engineering-cyber-resilience)
 
 ---
 
