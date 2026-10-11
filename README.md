@@ -1,380 +1,202 @@
-# Technical Ghostwriting
-
-### Confidential Technical Writing for Engineering, Technology & Specialist Audiences
-
-Professional technical ghostwriting by **Sébastien Beyh, PhD**.
-
-I work with engineers, researchers, consultants, technology professionals, executives and subject-matter experts who need complex technical knowledge transformed into clear, structured and publication-ready content.
-
-The emphasis is on understanding the technical subject first, then developing the material into professional written content.
-
----
-
-# What I Ghostwrite
-
-## Technical Books
-
-Development of book-length technical manuscripts from:
-
-- Author concepts
-- Technical notes
-- Research material
-- Existing documentation
-- Interviews with subject-matter experts
-- Structured outlines
-- Existing incomplete manuscripts
-
-Potential subjects include engineering, telecommunications, AI, renewable energy, cybersecurity and emerging technologies.
-
----
-
-## Technical White Papers
-
-Development of research-oriented technical documents addressing:
-
-- Technologies
-- Architectures
-- Engineering approaches
-- Industry developments
-- Technical problems
-- Technology strategies
-- Emerging technical trends
-
-White papers can be developed from existing technical material or through structured research and subject-matter collaboration.
-
----
-
-## Engineering Articles
-
-Development of technically credible articles for:
-
-- Engineering audiences
-- Technology publications
-- Corporate websites
-- Specialist publications
-- Professional platforms
-- Industry communications
-
-The objective is to explain the subject accurately while maintaining professional readability.
-
----
-
-## Technical Reports
-
-Development and organization of technical reports based on:
-
-- Engineering information
-- Project documentation
-- Research
-- Technical analysis
-- Interviews
-- Existing reports
-- Subject-matter expertise
-
----
-
-## Research-Based Technical Content
-
-Technical research and writing covering subjects such as:
-
-- Artificial intelligence
-- Telecommunications
-- 5G / 6G
-- AI-RAN
-- FTTX
-- Renewable energy
-- Solar PV
-- Battery energy storage
-- Cybersecurity
-- Cyber resilience
-- Critical infrastructure
-- Complex engineering systems
-
----
-
-# Technical Domains
-
-My technical writing background spans several interconnected technology domains.
-
-### Artificial Intelligence
-
-- AI systems
-- AI infrastructure
-- Intelligent networks
-- AI-enabled engineering
-- Edge computing
-- Distributed intelligence
-
-### Telecommunications
-
-- 5G
-- 6G
-- RAN
-- AI-RAN
-- FTTX
-- Network architecture
-- Telecommunications infrastructure
-
-### Energy
-
-- Solar PV
-- Hybrid energy systems
-- Battery energy storage
-- Distributed energy
-- Renewable-energy infrastructure
-- Energy systems
-
-### Cybersecurity
-
-- Cyber resilience
-- Identity
-- Infrastructure security
-- AI security
-- Critical infrastructure
-- Quantum-era security considerations
-
-### Engineering & Technology
-
-- Systems engineering
-- Technology architecture
-- Infrastructure
-- Digital transformation
-- Technology strategy
-- Complex engineering systems
-
----
-
-# Why Technical Ghostwriting Requires Technical Understanding
-
-Technical ghostwriting is different from general content writing.
-
-A technically demanding manuscript often requires the writer to understand:
-
-- The underlying technology
-- The system architecture
-- The terminology
-- Technical dependencies
-- Engineering constraints
-- The intended audience
-- The relationship between technical components
-
-The writer must be able to organize the subject without distorting its technical meaning.
-
-My approach is therefore based on **engineering understanding + technical research + structured writing**.
-
----
-
-# Ghostwriting Process
-
-A typical engagement can be structured around the following stages.
-
-## 1. Discovery
-
-Understand the subject, intended audience, objectives and expected deliverable.
-
-Typical inputs may include:
-
-- Brief
-- Notes
-- Existing manuscript
-- Technical documents
-- Research material
-- Interviews
-- Outline
-
----
-
-## 2. Technical Framework
-
-Establish the technical structure of the document.
-
-This may include:
-
-- Scope
-- Terminology
-- Architecture
-- Major sections
-- Technical relationships
-- Research requirements
-- Intended depth
-
----
-
-## 3. Research & Development
-
-Develop the required technical content using appropriate source material and the information provided by the subject-matter expert.
-
-Where the assignment requires original research, sources and assumptions are handled explicitly.
-
----
-
-## 4. Drafting
-
-Develop the manuscript or document according to the agreed structure and audience.
-
-The writing emphasizes:
-
-- Accuracy
-- Logical progression
-- Technical clarity
-- Consistent terminology
-- Professional tone
-
----
-
-## 5. Review & Revision
-
-Technical and editorial feedback is incorporated through an agreed revision process.
-
-This stage may involve:
-
-- Technical corrections
-- Structural changes
-- Clarification
-- Expansion
-- Condensation
-- Terminology alignment
-- Audience adaptation
-
----
-
-## 6. Finalization
-
-The final document is prepared according to the agreed deliverable requirements.
-
-Depending on the assignment, this may include:
-
-- Manuscript formatting
-- Section consistency
-- References
-- Tables
-- Figures or figure descriptions
-- Final editorial review
-
----
-
-# Working With Subject-Matter Experts
-
-A ghostwriting engagement does not require the writer to replace the subject-matter expert.
-
-The strongest technical manuscripts often result from collaboration.
-
-The subject-matter expert provides:
-
-- Expertise
-- Experience
-- Technical insight
-- Original ideas
-- Proprietary knowledge where appropriate
-
-The writer provides:
-
-- Structure
-- Research
-- Technical communication
-- Editorial development
-- Manuscript organization
-- Consistent professional presentation
-
-The result is a document that communicates the expert's knowledge more effectively.
-
----
-
-# Confidentiality & Attribution
-
-Technical ghostwriting may involve confidential or attribution-sensitive work.
-
-Client confidentiality is respected according to the engagement requirements.
-
-Where appropriate:
-
-- Client names are not disclosed
-- Confidential information is not published
-- Proprietary material remains private
-- Work may be delivered for publication under the client's name
-- Portfolio use is subject to authorization
-
-Not all completed assignments will therefore appear publicly in this repository.
-
----
-
-# Published Technical Books
-
-My published technical books demonstrate experience developing complex subjects into complete long-form manuscripts.
-
-## AI-RAN Engineering
-
-### Intelligent Radio Networks for 5G and Future 6G
-
-Technical examination of AI-enabled radio access networks and the evolution of telecommunications infrastructure toward increasingly intelligent architectures.
-
-[View the technical repository](https://github.com/sebastienbeyh/ai-ran-engineering)
-
-[View on Amazon](https://www.amazon.com/dp/B0GX2SLJ85)
-
----
-
-## Engineering Cyber Resilience
-
-### A Layered Model for Identity, Infrastructure, AI & Quantum-Era Defense
-
-A systems-oriented treatment of cyber resilience spanning identity, infrastructure, AI security and emerging quantum-era considerations.
-
-[View the technical repository](https://github.com/sebastienbeyh/engineering-cyber-resilience)
-
-[View on Amazon](https://www.amazon.com/dp/B0HKFHBZGL)
-
----
-
-# Related Portfolio
-
-### Technical Writing Portfolio
-
-[View the central technical writing portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio)
-
-### Engineering Writing Samples
-
-[View selected engineering writing samples](https://github.com/sebastienbeyh/engineering-writing-samples)
-
-### Technical White Papers
-
-[View the technical white-paper portfolio](https://github.com/sebastienbeyh/technical-white-papers)
-
-### AI-RAN Engineering
-
-[Explore the AI-RAN technical portfolio](https://github.com/sebastienbeyh/ai-ran-engineering)
-
-### Engineering Cyber Resilience
-
-[Explore the cyber resilience technical portfolio](https://github.com/sebastienbeyh/engineering-cyber-resilience)
-
----
-
-# Professional Engagement
-
-Available for contractual technical ghostwriting and specialist technical writing assignments.
-
-Potential engagement types include:
-
-- Book-length manuscripts
-- Technical books
-- White papers
-- Engineering articles
-- Technical reports
-- Research-based content
-- Specialist documentation
-- Technology thought leadership
-
-[View my Upwork profile](https://www.upwork.com/freelancers/~01b87da47748e9829f?mp_source=share)
-
----
-
-# Author
+# Technical Ghostwriting for Engineering, Technology and Energy
 
 **Sébastien Beyh, PhD**
+Technical Writer | Engineering Author | Technical Ghostwriter
 
-Engineer, technology professional and published technical author working across telecommunications, artificial intelligence, renewable energy, cybersecurity and complex technology systems.
+I develop technically structured, professionally written content for organizations, engineering professionals, technology companies and independent authors who need complex subjects communicated clearly and credibly.
+
+My work focuses on translating technical concepts, engineering requirements and multidisciplinary systems into structured documents for technical, managerial and business audiences.
+
+My areas of focus include telecommunications, artificial intelligence, renewable energy, cybersecurity and complex engineering systems.
 
 ---
 
-> **Good technical ghostwriting does not hide the complexity of the subject. It gives that complexity a structure that readers can understand.**
+## Technical Writing and Ghostwriting Services
+
+### 1. Technical White Papers
+
+Development of structured technical white papers that explain engineering problems, evaluate architectural alternatives, document technical trade-offs and present defensible conclusions.
+
+**Potential deliverables:**
+
+* Technical white papers
+* Architecture and engineering position papers
+* Technology assessment documents
+* Technical decision briefs
+* Engineering strategy documents
+
+### 2. Engineering Documentation
+
+Preparation and refinement of technical documentation intended to improve clarity, consistency, traceability and usability.
+
+**Potential deliverables:**
+
+* System and solution descriptions
+* Technical architecture documents
+* Engineering reports
+* Requirements and interface documentation
+* Technical procedures and supporting documentation
+
+The scope of each engagement depends on the available source material, the required level of engineering detail and the intended use of the document.
+
+### 3. Technical Ghostwriting for Books
+
+Support for authors and subject-matter experts who need assistance turning their technical knowledge into a coherent manuscript.
+
+**Potential deliverables:**
+
+* Technical book planning and outlines
+* Chapter development from supplied material
+* Manuscript structuring and editing
+* Technical consistency reviews
+* Explanatory material for complex engineering subjects
+
+Ghostwriting arrangements can be confidential and can follow the client's authorship, attribution and publication requirements.
+
+Technical claims, references and examples must remain traceable to supplied material, authoritative sources or clearly identified assumptions.
+
+### 4. Engineering Articles and Thought Leadership
+
+Development of technical articles for professional audiences, engineering publications and technology-focused platforms.
+
+**Potential deliverables:**
+
+* Engineering articles
+* Technical explainers
+* Architecture-focused articles
+* Industry analysis
+* Executive-oriented technical commentary
+
+The objective is to preserve technical substance while adapting structure and explanation to the intended audience.
+
+### 5. Technical Proposals and Tender Documentation
+
+Support for technical proposals and tender-related documentation where the scope matches the available engineering information and the client's requirements.
+
+**Potential deliverables:**
+
+* Technical proposal sections
+* Scope and methodology descriptions
+* Technical compliance narratives
+* Solution descriptions
+* Technical document review and refinement
+
+Tender work must be based on the actual specifications, project information and evidence provided or independently verified. Compliance, qualifications and project experience must never be invented.
+
+---
+
+## Technical Domains
+
+### Artificial Intelligence and Telecommunications
+
+* AI-RAN architecture and engineering
+* 5G and future 6G network architecture
+* Radio access network concepts
+* Network virtualization and distributed computing
+* Telecommunications infrastructure and system integration
+
+### Renewable Energy
+
+* Solar photovoltaic systems
+* Hybrid energy architectures
+* Battery energy storage integration
+* Energy system design considerations
+* Technical tender and proposal documentation
+
+### Cybersecurity and Resilience
+
+* Cyber resilience architecture
+* Identity and infrastructure security
+* AI-related security considerations
+* Critical infrastructure resilience
+* Recovery and lifecycle engineering
+
+### Complex Engineering Systems
+
+* Systems architecture
+* Requirements and interface management
+* Technical integration
+* Verification and validation
+* Engineering documentation and delivery processes
+
+The scope of each engagement is agreed individually. A listed subject area should not be interpreted as a claim of certification, specialist authorization or experience with every technology or standard within that field.
+
+---
+
+## Selected Writing Portfolio
+
+Explore the following repositories for examples of technical writing and engineering communication.
+
+* [Engineering Writing Samples](https://github.com/sebastienbeyh/engineering-writing-samples) — selected articles across AI, telecommunications, cybersecurity, energy and engineering systems.
+* [Technical White Papers](https://github.com/sebastienbeyh/technical-white-papers) — longer-form technical analysis and architecture-oriented documents.
+* [AI-RAN Engineering](https://github.com/sebastienbeyh/ai-ran-engineering) — material related to AI-enabled radio network architecture.
+* [Engineering Cyber Resilience](https://github.com/sebastienbeyh/engineering-cyber-resilience) — material related to layered cyber resilience and infrastructure security.
+* [Technical Writing Portfolio](https://github.com/sebastienbeyh/technical-writing-portfolio) — portfolio overview and professional writing focus.
+
+These materials illustrate writing approach and subject coverage. They should not be interpreted as client deliverables unless explicitly identified as such.
+
+---
+
+## Published Technical Books
+
+### AI-RAN Engineering: Intelligent Radio Networks for 5G and Future 6G
+
+A technical book focused on the engineering and architectural considerations associated with AI-enabled radio networks.
+
+[View the book on Amazon](https://www.amazon.com/dp/B0GX2SLJ85)
+
+### Engineering Cyber Resilience: A Layered Model for Identity, Infrastructure, AI & Quantum-Era Defense
+
+A technical book examining cyber resilience through a layered systems perspective.
+
+[View the book on Amazon](https://www.amazon.com/dp/B0HKM9PRBX)
+
+Additional author information is available through the [Amazon Author Page](https://www.amazon.com/author/sebastienbeyh).
+
+---
+
+## Working Approach
+
+Each engagement begins with a clear definition of the deliverable, audience, scope, source material and acceptance criteria.
+
+My preferred approach is to:
+
+1. Establish the document's purpose and intended readership.
+2. Review the supplied material and identify information gaps.
+3. Develop a structure appropriate to the technical problem.
+4. Separate established facts from assumptions, proposals and unresolved questions.
+5. Maintain consistent terminology, notation and document logic.
+6. Verify technical claims against available evidence and authoritative sources.
+7. Review the complete document for accuracy, clarity and consistency.
+
+I do not treat polished language as a substitute for engineering validity. Where evidence is unavailable, the limitation should be stated rather than concealed.
+
+---
+
+## Engagement Principles
+
+* **Scope clarity:** Deliverables and exclusions are agreed before work begins.
+* **Technical integrity:** Claims are not fabricated to make a document appear more persuasive.
+* **Source discipline:** References and technical assertions should be verifiable.
+* **Confidentiality:** Client information is handled according to the agreed engagement terms.
+* **Authorship and attribution:** Ghostwriting and publication arrangements are agreed with the client.
+* **Revision discipline:** Review cycles and acceptance criteria are defined according to the project.
+
+Confidentiality obligations, intellectual property ownership, attribution and permitted use should be established in the relevant contract.
+
+---
+
+## Professional Engagement
+
+For freelance and contract opportunities, visit my [Upwork profile](https://www.upwork.com/).
+
+For an overview of my work, visit my [GitHub profile](https://github.com/sebastienbeyh).
+
+When making an inquiry, please include the subject, intended audience, expected deliverable, available source material and target deadline.
+
+This information helps establish whether the assignment is a suitable fit.
+
+---
+
+**Sébastien Beyh, PhD**
+Technical Writer | Engineering Author | Technical Ghostwriter
