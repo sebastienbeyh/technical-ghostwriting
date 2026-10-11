@@ -338,11 +338,11 @@ A systems-oriented treatment of cyber resilience spanning identity, infrastructu
 
 ### Technical White Papers
 
-[View the technical white-paper portfolio](https://github.com/sebastienbeyhand/technical-white-papers)
+[View the technical white-paper portfolio](https://github.com/sebastienbeyh/technical-white-papers)
 
 ### AI-RAN Engineering
 
-[Explore the AI-RAN technical portfolio](https://github.com/sebastienbeyhand/ai-ran-engineering)
+[Explore the AI-RAN technical portfolio](https://github.com/sebastienbeyh/ai-ran-engineering)
 
 ### Engineering Cyber Resilience
 
